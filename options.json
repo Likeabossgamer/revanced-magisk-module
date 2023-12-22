@@ -1,1 +1,25 @@
-[]
+        
+[
+  {
+    "patchName": "Custom theme",
+    "options": [
+      {
+        "key": "accentColor",
+        "value": "#8A2BE2"
+      },
+      {
+        "key": "backgroundColor",
+        "value": "#000000"
+      },
+      {
+        "key": "backgroundColorSecondary",
+        "value": "#000000"
+      },
+      {
+        "key": "accentColorPressed",
+        "value": "#8A2BE2"
+      }
+    ]
+  }
+]
+        []
