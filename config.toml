@@ -20,9 +20,3 @@ build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ltd/"
 arch = "arm64-v8a"
 build-mode = "module"
-
-[de.dwd.warnapp]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
-arch = "arm64-v8a"
-build-mode = "module"
-
